@@ -1,6 +1,5 @@
 # round-cake-calculator
 A Python program that scales a cake recipe based on round tray size
-
 This simple Python script scales ingredient amounts based on the size of a round cake tray.
 
 ## Features
